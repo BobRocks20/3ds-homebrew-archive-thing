@@ -3,7 +3,7 @@ A "repository" of homebrew apps/games whose source code is only available, compi
 
 # Things I plan to add
 * factcrow3ds
-* 3dfrogr (the game pre-compiled was never released)
+* 3dfrogr
 * Scratch3ds (owner is inactive. idk if he still accepts testing.) <br>
 ...and a bunch of others.
 
